@@ -1,0 +1,10 @@
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\bin\Debug\hesapMakinesiYapiyorum.exe.config
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\bin\Debug\hesapMakinesiYapiyorum.exe
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\bin\Debug\hesapMakinesiYapiyorum.pdb
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\obj\Debug\hesapMakinesiYapiyorum.csprojResolveAssemblyReference.cache
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\obj\Debug\hesapMakinesiYapiyorum.Form1.resources
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\obj\Debug\hesapMakinesiYapiyorum.Properties.Resources.resources
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\obj\Debug\hesapMakinesiYapiyorum.csproj.GenerateResource.Cache
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\obj\Debug\hesapMakinesiYapiyorum.csproj.CoreCompileInputs.cache
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\obj\Debug\hesapMakinesiYapiyorum.exe
+C:\Users\ckl_m\Documents\Visual Studio 2017\Projects\hesapMakinesiYapiyorum\hesapMakinesiYapiyorum\obj\Debug\hesapMakinesiYapiyorum.pdb
